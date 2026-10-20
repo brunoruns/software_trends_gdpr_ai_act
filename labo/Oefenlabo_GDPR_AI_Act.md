@@ -1,6 +1,6 @@
 # Oefenlabo GDPR en AI Act
 
-> **Duur: 2 uur.** Werk de cases in volgorde. Case 5 en de examenvraag zijn bonusopdrachten voor wie klaar is. Gebruik de slides als naslagwerk; bij elke opgave staat tussen haakjes waar je het antwoord vindt.
+> **Duur: 2 uur.** Werk de cases in volgorde. Case 5 en de examenvraag zijn bonusopdrachten voor wie klaar is. Gebruik de slides als naslagwerk.
 
 | Case | Thema | Tijd |
 |---|---|---|
@@ -52,7 +52,7 @@ Bekijk de slides van de les, met de 15 checkpoints voor een applicatie. Beoordee
 
 Beoordeel welke verzamelde data (van klanten zowel als van personeel) persoonlijke data is, en welke sensitief is.
 
-### GDPR-audit van Bikefun (slides: "Datalekken: de 72-uursregel", "7 principles" en "Individuele GDPR-rechten")
+### GDPR-audit van Bikefun (slides: "Datalekken: de 72-uursregel", en "Individuele GDPR-rechten")
 
 Doorloop volgende vragen voor de Bikefun-case. Beantwoord ze schriftelijk met verwijzing naar de slide of het principe waarop je je antwoord baseert.
 
@@ -60,11 +60,6 @@ Doorloop volgende vragen voor de Bikefun-case. Beantwoord ze schriftelijk met ve
 
 1. Welke persoonlijke gegevens verwerkt Bikefun van wie (kinderen, ouders, personeel, contacten ter plaatse)? Maak een overzichttabel: gegeven, categorie betrokkene, doel, grondslag, bewaartermijn, door wie verwerkt.
 2. Welke systemen verwerken die gegevens (app, mail, databank, ERP)? Waar stromen de gegevens tussen door, en waar ontstaan er kopieën?
-
-**Wettelijke grondslag**
-
-3. Wat is de wettelijke grondslag voor elke verwerking? Denk aan toestemming, uitvoering van een overeenkomst, wettelijke verplichting en gerechtvaardigd belang.
-4. Kun je de verwerking van medicatie- en zorggegevens op een andere grondslag dan toestemming baseren?
 
 **Sensitieve data**
 
